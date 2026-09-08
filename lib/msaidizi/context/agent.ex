@@ -1,4 +1,4 @@
-defmodule Msaidizi.Agent do
+defmodule Msaidizi.Context.Agent do
  @moduledoc """
   Main orchestrator
  """
